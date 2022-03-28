@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+.contenedorReg{
+    padding-bottom: 2em;
+    width: 1000px;
+    max-width: 60%;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 0 0 20px 1px rgba(0,0,0,0.4);
+    background-color: #ffff;
+    border-radius: 30px;
+}
+.logo{
+	height: 40px;
+	width: 270px;
+	margin-left: 40px;
+}
+.container-fluid{
+	margin-left: 280px;
+}

@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+   
+}
+body{
+  	background: rgb(219, 226, 226);
+}
+.State{
+	width: 81.1667px;
+}
+
